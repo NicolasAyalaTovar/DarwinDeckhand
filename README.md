@@ -22,6 +22,7 @@ pip install transformers tensorflow nltk pdfminer.six
 # tokens1.txt: Archivo de texto que contiene los tokens del texto de prueba.
 # mi_modelo_gpt2_ajustado/: Directorio donde se guardará el modelo y el tokenizador entrenado.
 
-# Autor - Nicolás Ayala Tovar
+#Autor
+Nicolás Ayala Tovar
 
 Guarda este contenido en un archivo llamado `README.md` en el directorio raíz de tu proyecto.
