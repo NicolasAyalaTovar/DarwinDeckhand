@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Datos y artefactos del modelo
+*.pdf
+tokens*.txt
+mi_modelo_gpt2_ajustado/

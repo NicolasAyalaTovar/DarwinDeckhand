@@ -1,0 +1,4 @@
+tensorflow>=2.10,<2.16
+transformers>=4.30,<4.45
+nltk>=3.8
+pdfminer.six>=20221105
