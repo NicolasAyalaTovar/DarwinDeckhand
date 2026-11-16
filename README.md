@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00?logo=tensorflow&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/🤗%20Transformers-GPT--2-yellow)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
 Darwin Deckhand convierte obras de Charles Darwin en PDF en un corpus limpio y realiza *fine-tuning* de GPT-2 para que el modelo genere texto con el estilo y el vocabulario del naturalista. Es la base para un asistente conversacional sobre historia natural y evolución.
 
@@ -78,6 +79,10 @@ Archivos generados al ejecutar: `tokens.txt`, `tokens1.txt` y la carpeta del mod
 - Interfaz de chat (CLI o web) sobre el modelo ajustado.
 - Conservar puntuación en la normalización para mejorar la fluidez del texto generado.
 - Publicar el modelo en Hugging Face Hub.
+
+## 📄 Licencia
+
+Distribuido bajo la licencia MIT. Consulta [`LICENSE`](LICENSE) para más información.
 
 ## 👤 Autor
 
